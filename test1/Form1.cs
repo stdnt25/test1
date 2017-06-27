@@ -21,5 +21,9 @@ namespace test1 {
         private void button3_Click(object sender, EventArgs e) {
             button3.Text = "OK";
         }
+
+        private void button4_Click(object sender, EventArgs e) {
+            button4.Text = "OK";
+        }
     }
 }
